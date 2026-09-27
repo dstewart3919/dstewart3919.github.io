@@ -1,0 +1,1 @@
+import{S as e}from"./site-shell-C0rRKz6X.js";import{o as t}from"./index-DJDnOjW2.js";import{n}from"./dino-sprites-DJS2ci-8.js";var r=t();function i({kind:t,className:i,style:a}){return(0,r.jsx)(`span`,{"aria-hidden":!0,className:e(`dino-sprite`,i),style:{...a,backgroundImage:`url(${n[t]})`}})}export{i as t};
