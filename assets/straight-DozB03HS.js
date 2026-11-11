@@ -1,0 +1,1 @@
+import{t as e}from"./site-shell-HZrKJbJ8.js";import{o as t}from"./index-DjZvA6BV.js";import{n}from"./straight-math-sA-R1EAL.js";var r=t();function i(){return(0,r.jsx)(e,{children:(0,r.jsx)(n,{})})}export{i as component};
